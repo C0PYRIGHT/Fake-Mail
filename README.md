@@ -5,8 +5,5 @@ Fake-Mail
 
 
 ```bash
-pip install requests
-pip install request
-pip install color
-pip install colorama
+To Use This Tool : ['Tutorial'](https://www.thefoolnoob.zone.id/2019/04/Fake-Mail.html)
 ```
