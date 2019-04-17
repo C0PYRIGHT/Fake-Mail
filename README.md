@@ -5,5 +5,5 @@ Fake-Mail
 
 
 ```bash
-To Use This Tool : ['Tutorial'](https://www.thefoolnoob.zone.id/2019/04/Fake-Mail.html)
+How to use this Tool [`Tutorial`](https://noyads.net/FakeMail)
 ```
