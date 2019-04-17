@@ -1,5 +1,5 @@
 # Fake-Mail
 Fake-Mail
 # re upload :))
-# ![screnshoot](ss.jpeg)
+# ![screnshoot](ss.jpg)
 
